@@ -1,0 +1,10 @@
+{
+	"id": "copy-as-context",
+	"name": "Copy as Context",
+	"version": "0.1.0",
+	"minAppVersion": "1.4.0",
+	"description": "Copy the selected text with its note path, line numbers and heading path, or a folder as a tree, ready to paste into an AI chat or agent.",
+	"author": "Jaydon",
+	"isDesktopOnly": false,
+	"authorUrl": "https://github.com/JaydonZhao"
+}
