@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-copy-as-context",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"private": true,
 	"description": "Obsidian plugin: copy the selected text as context for AI, with note path, line numbers and heading path",
 	"type": "module",
